@@ -1,0 +1,8 @@
+# Node modules
+node_modules/
+
+# songs
+songs/
+
+# Logs
+logs
